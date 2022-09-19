@@ -61,19 +61,19 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center"> 
-  <img alt="FindYourDUO" title="#FindYourDUO" src="./.github/app-home-screen.jpg" width="200px">
+  <img alt="FindYourDUO" title="#FindYourDUO" src="https://github.com/KelvinFochesato/FindYourDuo/blob/main/.github/app-home-screen.jpg?raw=true" width="200px">
 
-  <img alt="FindYourDUO" title="#FindYourDUO" src="./.github/app-game-ads.jpg" width="200px">
+  <img alt="FindYourDUO" title="#FindYourDUO" src="https://github.com/KelvinFochesato/FindYourDuo/blob/main/.github/app-game-ads.jpg?raw=true" width="200px">
 
-  <img alt="FindYourDUO" title="#FindYourDUO" src="./.github/app-ad-connect.jpg" width="200px">
+  <img alt="FindYourDUO" title="#FindYourDUO" src="https://github.com/KelvinFochesato/FindYourDuo/blob/main/.github/app-ad-connect.jpg?raw=true" width="200px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FindYourDUO" title="#FindYourDUO" src="./.github/home-screen.jpg" width="400px">
+  <img alt="FindYourDUO" title="#FindYourDUO" src="https://github.com/KelvinFochesato/FindYourDuo/blob/main/.github/home-screen.jpg?raw=true" width="400px">
 
-  <img alt="FindYourDUO" title="#FindYourDUO" src="./.github/create-ad-screen.png" width="400px">
+  <img alt="FindYourDUO" title="#FindYourDUO" src="https://github.com/KelvinFochesato/FindYourDuo/blob/main/.github/create-ad-screen.png?raw=true" width="400px">
 </p>
 
 ---

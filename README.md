@@ -3,9 +3,7 @@
 
   <img src="https://raw.githubusercontent.com/KelvinFochesato/FindYourDuo/main/.github/banner.png">
   
-  <a href="https://github.com/kelvinfochesato/FindYourDuo/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kelvinfochesato/FindYourDuo">
-  </a>
+
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/kelvinfochesato/FindYourDuo/stargazers">

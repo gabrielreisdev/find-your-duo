@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kelvinfochesato/FindYourDuo?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kelvinfochesato/FindYourDuo">
+  <img src="https://raw.githubusercontent.com/KelvinFochesato/FindYourDuo/main/.github/banner.png">
   
   <a href="https://github.com/kelvinfochesato/FindYourDuo/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kelvinfochesato/FindYourDuo">

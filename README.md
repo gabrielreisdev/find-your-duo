@@ -12,9 +12,7 @@
 </p>
 
 </p>
-<h1 align="center">
-    <img alt="FindYourDUO" title="#FindYourDUO" src="./.github/banner.png" />
-</h1>
+
 
 <h4 align="center"> 
 	🚧 FindYourDUO ♻️ In-Progress 🚀 🚧
